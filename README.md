@@ -1,1 +1,1 @@
-Team Praise and Tochie Simple shell project.
+This is Team Praise and Tochie Simple shell project.
